@@ -1,0 +1,13 @@
+streamlit==1.35.0
+pypdf2==3.0.1
+langchain==0.1.17
+langchain-core==0.3.55
+langchain-groq==0.3.2
+llama-stack==0.2.11
+openai==1.66.1
+faiss-cpu==1.8.0
+huggingface_hub==0.23.0
+python-dotenv==1.0.1
+protobuf>=5.0.0,<6.0
+requests>=2.31.0
+tqdm>=4.66.0

@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/22184776/README.md)
 # DocSense
 
 **DocSense** is a lightweight yet powerful Python-based application for document processing and analysis. Built with Streamlit, FastAPI, and LangChain, this tool enables:
